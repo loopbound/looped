@@ -6,3 +6,4 @@
 
 - [`@looped/hooks`](./packages/hooks)
 - [`@looped/id`](./packages/id)
+- [`@looped/utils`](./packages/utils)
