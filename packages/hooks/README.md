@@ -8,6 +8,14 @@ A library of useful react hooks
 - **useDelayed**
 - **useGlobalMemo**
 - **useGlobalState**
+- **useIsMobile**
+- **useIsSSR**
+- **useLoading**
+- **useInterval**
+- **useMemoIf**
+- **useLocalstorage**
+- **useDefined**
+- **useControlled**
 
 ## Installation
 
