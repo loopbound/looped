@@ -1,0 +1,8 @@
+{
+  "name": "looped",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/loopbound/looped.git",
+  "author": "Tobias Herber <22559657+herber@users.noreply.github.com>",
+  "license": "MIT"
+}
