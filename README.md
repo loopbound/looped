@@ -5,3 +5,4 @@
 ## Packages
 
 - [`@looped/hooks`](./packages/hooks)
+- [`@looped/id`](./packages/id)
