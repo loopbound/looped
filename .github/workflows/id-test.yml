@@ -1,4 +1,4 @@
-name: Hooks CI
+name: ID CI
 
 on: [push]
 
